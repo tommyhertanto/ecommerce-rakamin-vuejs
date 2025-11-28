@@ -5,12 +5,12 @@
 </template>
 
 <script>
-import ProductDisplay from "./components/ProductDisplay.vue";
-import "./assets/style/style.css";
+import ProductDisplay from './components/ProductDisplay.vue'
+import './assets/style/style.css'
 
 export default {
   components: {
-    ProductDisplay,
-  },
-};
+    ProductDisplay
+  }
+}
 </script>
